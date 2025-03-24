@@ -17,11 +17,11 @@
 - Tailwind CSS
 
 ## 프로젝트 구조
-src/
-├── api/ # API 통신 관련 코드
-├── components/ # React 컴포넌트
-├── types/ # TypeScript 타입 정의
-└── utils/ # 유틸리티 함수
+- src
+- api/ : API 통신 관련 코드
+- components/ : React 컴포넌트
+- types/ : TypeScript 타입 정의 
+- utils/ : 유틸리티 함수
 
 ### 사전 요구사항
 
